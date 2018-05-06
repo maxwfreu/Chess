@@ -16,3 +16,5 @@ Because I wanted to learn C++!
 ## How to run
 
 Clone the repo, open up the xcode project, and press run
+
+Alternatively, if you don't want to build the project or open xcode, I included a demo build for MacOS. Clone the repo, or download a zip and simple run the ChessGUI Application (located in the top directory). 
